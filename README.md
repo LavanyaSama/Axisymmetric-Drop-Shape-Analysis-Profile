@@ -1,4 +1,4 @@
-# Axisymmetric-Drop-Shape-Analysis-Profile
+# Contact angle of Sessile Droplets
 This project consists of an in-house Matlab code for calculating contact angle of a droplet. 
 ## 1. Drop profile detection
 I did Image processing of a droplet in which drop profile coordinates were found by edge detection tehniques. We will transform the coordinate system so that apex of the drop coincides with origin to facilitate easy comparision of experimenal data with theoretical data. 
